@@ -3,7 +3,7 @@ Sharp tings for cutting through networks. Most binaries have some sort of obfusc
 
 ## Binaries:
 
-- SharpImpersonation.exe - token impersonation in C#
+- SharpImpersonation.exe - token impersonation in C#  (not obfuscated)
 - betterBelt.exe - SeatBelt but obfuscated
 - doggo.ps1 - Bloodhound injestor
 - loadyload.exe - netloader to load C# binaries via the web or local paths. Web better as don't need to obfuscate target exe.
